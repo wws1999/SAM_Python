@@ -1,5 +1,5 @@
 print("git")
 print("hello")
 
-print("branch dev1")
-print("branch dev2")
+print("branch dev1 master")
+print("branch dev2 master")
